@@ -21,7 +21,7 @@ The program has a menu-driven interface that allows users to interact with the s
 
 The system handles edge cases, such as preventing duplicate account creation or withdrawals beyond the available balance. This ensured that the system mimicked real-world banking constraints.
 
-3. Conclusion:
+<h3>3. Conclusion:</h3>
 This project was an excellent starting point for me to understand how real-world systems work and how to translate them into functional code. It allowed me to learn and apply concepts like object-oriented programming, error handling, and data storage using Python’s dictionaries.
 
 While the project is a backend application, it is designed to be scalable, meaning it can be integrated with a frontend or a database in the future to make it a complete banking solution. This project helped me develop a solid foundation for backend development, problem-solving, and logical thinking, skills I am confident will add value to any team.
