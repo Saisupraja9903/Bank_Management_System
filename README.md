@@ -5,7 +5,7 @@ This was my first project, and I wanted to build something that simulated real-w
 <h3>Overview of the Project:</h3>
 My project is a Python-based backend application that uses object-oriented programming principles. It consists of two main classes:
 
-<h4>I.BankAccount Class:</h4>This handles individual accounts, storing details like account number, account name, and balance. It also provides methods for depositing and withdrawing money and displaying account details.
+<h5>I.BankAccount Class:</h5>This handles individual accounts, storing details like account number, account name, and balance. It also provides methods for depositing and withdrawing money and displaying account details.
 
 II.Bank Class: This acts as the central management system, maintaining multiple accounts in a dictionary for quick access. It includes methods to create new accounts, delete existing ones, and access account details.
 
